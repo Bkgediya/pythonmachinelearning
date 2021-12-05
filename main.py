@@ -10,7 +10,7 @@ def print_hi(name):
 
 
 def calculate(a, b):
-    return a + b
+    return a - b
 
 
 # Press the green button in the gutter to run the script.
