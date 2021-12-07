@@ -12,6 +12,10 @@ def calculateMultiply(a, b):
     return a * b
 
 
+def calculateTheArithmatic(a, b):
+    return a+b+a
+
+
 def summation(a, b):
     return a + b
 
@@ -28,3 +32,4 @@ if __name__ == '__main__':
     print(calculateMultiply(6, 8))
     print(summation(6, 9))
     print(division(10, 2))
+    print(calculateTheArithmatic(6, 6))
